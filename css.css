@@ -1,4 +1,5 @@
 * {
+    background-color: antiquewhite;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -35,7 +36,7 @@
     height: 40px;
     border: none;
     border-radius: 4px;
-    color: white;
+    color: rgb(19, 10, 10);
     font-size: 1rem;
     width: 100%;
   }
